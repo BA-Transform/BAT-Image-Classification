@@ -38,7 +38,7 @@ python main.py -a nlnet50 --nltype bat --nl_mod 2 2 1000 --evaluate --resume PAT
 ```
 
 ## Other applications of BAT
-* [Video Classification]()
+* [Video Classification](https://github.com/BA-Transform/BAT-Video-Classification)
 
 ## Citation
 If you find this work or code is helpful in your research, please cite:
