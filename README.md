@@ -11,7 +11,7 @@ Here we provide some of the pretrained models.
 | ResNet-101 + BAT | 9.2 | 49.2M | 79.1% | [GoogleDrive](https://drive.google.com/file/d/1OpUN7_4C2XzvXwS6-kvn5Juzp5IE7yoe/view?usp=sharing) / [BaiduYun](https://pan.baidu.com/s/1oHExy1xw6srbzOohrmh1zA)(Access Code: h2bo) |
 | ResNet-152 + BAT | 12.9 | 64.9M | 79.4% | [GoogleDrive](https://drive.google.com/file/d/1DgKbFjPTxkzTAuPYQI0RxLHa8htoNrUz/view?usp=sharing) / [BaiduYun](https://pan.baidu.com/s/1H9LbbmCdM83vKTn9yhSixw)(Access Code: eh6f) |
 
-**Note:** The models provided here are trained on [MXNet’s recordIO files](https://docs.nvidia.com/deeplearning/dali/user-guide/docs/examples/general/data_loading/dataloading_recordio.html), so the performance will drop significantly while evaluated on JPEG images. But they can be used as good training initalization for other tasks, such as [video classification]().
+**Note:** The models provided here are trained on [MXNet’s recordIO files](https://docs.nvidia.com/deeplearning/dali/user-guide/docs/examples/general/data_loading/dataloading_recordio.html), so the performance will drop significantly while evaluated on JPEG images. But they can be used as good training initalization for other tasks, such as [video classification](https://github.com/BA-Transform/BAT-Video-Classification).
 
 ## Quick starts
 ### Requirements
